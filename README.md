@@ -115,7 +115,7 @@ README espectacular para tu perfil de GitHub.
 
 <div align="center">
   <h3>🤝 ¿Construimos algo juntos?</h3>
-  <a href="mailto:andres@example.com">
+  <a href="mailto:pereirapuelloandresdavid@gmail.com">
     <img src="https://img.shields.io/badge/Escr%C3%ADbeme-111?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
   </a>
   <br/><br/>
